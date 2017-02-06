@@ -1,0 +1,235 @@
+#VRML V2.0 utf8
+
+Collision {
+    collide FALSE
+    children [
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h1.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 0.000000 1.000000 1.000000,
+				 1.000000 1.000000 1.000000,
+				 1.000000 1.000000 0.000000,
+				 1.000000 0.000000 0.000000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 0.240993 0.240993,
+				 0.999003 0.582253,
+				 1.000000 1.000000,
+				 1.000000 1.000000,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h2.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 0.000000 1.000000 1.000000,
+				 1.000000 1.000000 1.000000,
+				 1.000000 0.500000 1.500000,
+				 0.000000 0.500000 1.500000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 0.000000 -0.000000,
+				 1.000000 0.000000,
+				 1.000000 0.707107,
+				 0.000000 0.707107,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h3.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 0.000000 0.500000 1.500000,
+				 1.000000 0.500000 1.500000,
+				 0.000000 1.000000 0.000000,
+				 0.000000 0.000000 1.000000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 0.000000 0.057100,
+				 1.823145 -0.144614,
+				 0.000000 0.377941,
+				 0.000000 -0.109278,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h4.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 0.000000 0.000000 1.000000,
+				 0.000000 1.000000 0.000000,
+				 0.000000 1.000000 0.000000,
+				 0.000000 0.000000 0.000000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 -1.786764 -1.786764,
+				 2.025274 2.025274,
+				 -0.346912 -0.346912,
+				 0.343230 0.343230,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h5.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 1.000000 1.000000 0.000000,
+				 1.000000 1.000000 1.000000,
+				 1.000000 0.500000 1.500000,
+				 0.000000 1.000000 0.000000,
+				 0.000000 1.000000 0.000000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, 4, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 0.000000 -0.000000,
+				 1.683194 0.000000,
+				 1.623463 0.541154,
+				 0.000000 -0.000000,
+				 0.000000 -0.000000,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, 4, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h6.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 1.000000 0.000000 0.000000,
+				 0.000000 1.000000 1.000000,
+				 0.000000 0.500000 1.500000,
+				 0.000000 0.000000 1.000000,
+				 0.000000 0.000000 0.000000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, 4, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 -0.451999 -0.280781,
+				 1.689614 0.192682,
+				 0.322252 -0.643425,
+				 1.264237 0.558012,
+				 0.882273 0.242800,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, 4, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+ Shape {
+	 appearance Appearance {
+		 texture ImageTexture {
+			 url "h7.gif"
+		 }
+	 }
+	 geometry IndexedFaceSet {
+		 coord Coordinate {
+			 point [
+				 1.000000 0.000000 0.000000,
+				 1.000000 1.000000 0.000000,
+				 0.000000 1.000000 0.000000,
+				 0.000000 0.000000 0.000000,
+			 ]
+		 }
+		 coordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 texCoord TextureCoordinate {
+			 point [
+				 -0.000000 0.000000,
+				 1.000000 0.000000,
+				 1.000000 1.000000,
+				 -0.000000 1.000000,
+			 ]
+		 }
+		 texCoordIndex [
+			 0, 1, 2, 3, -1,
+		 ]
+		 solid FALSE
+	 }
+}
+    ]
+}
